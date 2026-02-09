@@ -16,7 +16,7 @@ This tool helps you:
 
 ### 1. Get the Google Sheet
 
-👉 **[Click here to duplicate the VPAT Processor Google Sheet](YOUR_SHEET_LINK_HERE)**
+👉 **[Click here to duplicate the VPAT Processor Google Sheet]((https://docs.google.com/spreadsheets/d/1oO_I52YKZcOyTUYgsqDGvNN9I8gQQ0gIYrTyF41CYB4/copy))**
 
 Make a copy of the sheet to your Google Drive.
 
